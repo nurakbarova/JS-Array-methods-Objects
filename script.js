@@ -41,14 +41,14 @@
 // var arr=[32,25,85,89,45,76,7,41,2,12]
 
 
-   
+
 // // TASK1 "F"
 // var arr=[32,25,85,89,45,76,7,41,2,12] 
 // arr.splice(3,0,"43")
 // console.log(arr);
 
 
-   
+
 // // TASK1 "G"
 // var arr=[32,25,85,89,45,76,7,41,2,12] 
 // let newArr=arr.slice(3,arr.length)
@@ -71,3 +71,39 @@
 //     return item>40
 // })
 // console.log(newArr);
+
+
+
+// // TASK4
+// function evenNumbers(low,high){
+//     let arr=[]
+//     for(let i=low;i<=high;i++){
+//         arr.push(i)
+//     }
+//     return arr
+// }
+// console.log(evenNumbers(6,8));
+
+// TASK5
+// function myNum(arr,fact){
+//     let arr1=[]
+//     for(let i=0;i=arr.lenght;i++){
+//       if(arr[i]%12==0){
+//         arr1.push()
+//       }
+//     }
+//     return arr1
+// }
+// console.log([2,4,3]);
+
+// TASK2
+
+
+// let getStudentsNames =( [
+//     { name: "John"},
+//     { name: "Pete"},
+//     { name: "Mary"}
+// ]);
+
+// let getStudentsName = getStudentsNames.find(itgetStudentsNames => name);
+// console.log(getStudentsName);
