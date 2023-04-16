@@ -1,18 +1,4 @@
-// // // // TASK1 "C"
-// // var arr=[32,25,85,89,45,76,7,41,2,12]
-// // // arr.push(15)
-// // // console.log(arr)
-// // // // TASK1 "D"
-// // // arr.shift()
-// // // console.log(arr)
-// // // TASK1 "E"
-// // arr.sort();
-// // console.log(arr)
 
-
-// // let cars=[" bmw","lada"]
-// // cars.pop()
-// // console.log(cars)
 
 
 // // TASK1 "A"
@@ -38,7 +24,9 @@
 // console.log(arr);
 
 // // TASK1 "E"
-// var arr=[32,25,85,89,45,76,7,41,2,12]
+var arr=[32,25,85,89,45,76,7,41,2,12]
+arr.sort
+console.log(arr);
 
 
 
